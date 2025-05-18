@@ -1,0 +1,66 @@
+//priority: 10
+const masterVolcanic = [
+    'Charmander',
+    'Torchic',
+    'Litten',
+    'Gible',
+    'Jangmo-o',
+    'Zorua',
+    'Charcadet',
+    'Deino',
+    'Darumaka',
+    'Fuecoco',
+    'Beldum',
+    'Cyndaquil',
+    'Tepig',
+    'Chimchar',
+    'Misdreavus',
+    'Larvesta',
+    'Fennekin',
+    'Scorbunny',
+    'Tyrunt'
+];
+
+const masterWoodland = [
+    'Bulbasaur',
+    'Treecko',
+    'Impidimp',
+    'Scyther',
+    'Munchlax',
+    'Gligar',
+    'Grookey',
+    'Snivy',
+    'Pichu',
+    'Grookey',
+    'Honedge',
+    'Duskull',
+    'Sprigatito',
+    'Gastly',
+    'Larvesta',
+    'Tinkatink',
+    'Misdreavus',
+    'Ferroseed',
+    'Teddiursa',
+    'Turtwig',
+    'Larvitar'
+];
+
+const masterAquatic = [
+    'Oshawott',
+    'Popplio',
+    'Wimpod',
+    'Dreepy',
+    'Froakie',
+    'Sobble',
+    'Piplup',
+    'Horsea',
+    'Kabuto',
+    'Amaura',
+    'Squirtle',
+    'Totodile',
+    'Mudkip',
+    'Goomy',
+    'Dracovish',
+    'Arctozolt',
+    'Dratini'
+];
