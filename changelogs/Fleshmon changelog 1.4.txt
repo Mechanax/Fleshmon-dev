@@ -1,0 +1,36 @@
+- Version Changes
+Macaw's Bridges 3.0.0 -> 3.1.0
+Fabric Language Kotlin 1.13.2+kotlin.2.1.20 -> 1.13.3+kotlin.2.1.21
+ModernFix 5.21.0 -> 5.22.0
+TxniLib 1.0.23 -> 1.0.24
+Xaero's Minimap 25.2.0 -> 25.2.6 
+XaeroPlus 2.26.7 -> 2.26.11
+Xaero's World Map 1.39.4 -> 1.39.9
+MoreJS 0.10.0 -> 0.10.1
+Simple Voice Chat 2.4.32 -> 2.5.29 (Will hopefuly solve the VC issues)
+
+- Added
+Keybind Fix (Should fix the keybind problems)
+Every Compat (Wood Good)
+Every Compat (Stone Zone)
+Chisels & Bits
+FTB Essentials
+FTB XMod Compat
+FTB Chunks
+FTB Ultimine
+FTB Ranks
+Inventory Essentials
+
+- Removed
+Immersive Optimization (Causing dead pokemon to not despawn until a player gets close)
+Concurrent Chunk Management Engine
+Falling Tree
+Vein Mining
+Open Parties and Claims
+Inventory Profiles Next
+EmoteTweaks (needs to be removed to update SVC, will be updated at a later date)
+
+- Config/etc
+
+- KubeJS
+Disabled cobgyms blocks and keys form being used.
