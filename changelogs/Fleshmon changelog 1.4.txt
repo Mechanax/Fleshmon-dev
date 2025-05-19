@@ -20,6 +20,8 @@ FTB Chunks
 FTB Ultimine
 FTB Ranks
 Inventory Essentials
+Building Wands
+Lootr (Will remove Myloot at a later date)
 
 - Removed
 Immersive Optimization (Causing dead pokemon to not despawn until a player gets close)

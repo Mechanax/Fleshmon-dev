@@ -71,10 +71,6 @@
     "modId": "betterfpsdist",
     "version": "1.20.1-6.0"
   },
-  "blabber-1.6.2-mc1.20.1-standalone.jar": {
-    "modId": "blabber",
-    "version": "1.6.2-mc1.20.1"
-  },
   "BoatBreakFix-Universal-1.0.2.jar": {
     "modId": "boatbreakfix",
     "version": "1.0.2"
@@ -86,6 +82,10 @@
   "BounceStyles-2.5.1-fabric.jar": {
     "modId": "bounce_styles",
     "version": "2.5.1"
+  },
+  "BuildingWands-mc1.20.1-2.6.9-release.jar": {
+    "modId": "wands",
+    "version": "2.6.9-release"
   },
   "bwncr-fabric-1.20.1-3.17.2.jar": {
     "modId": "bwncr",
@@ -267,6 +267,10 @@
     "modId": "cupboard",
     "version": "1.20.1-2.7"
   },
+  "cyanide-fabric-1.20.1-4.1.1.jar": {
+    "modId": "cyanide",
+    "version": "4.1.1"
+  },
   "Debugify-1.20.1+2.0.jar": {
     "modId": "debugify",
     "version": "1.20.1+2.0"
@@ -314,6 +318,10 @@
   "EnchantmentDescriptions-Fabric-1.20.1-17.1.19.jar": {
     "modId": "enchdesc",
     "version": "17.1.19"
+  },
+  "entangled-1.3.20-fabric-mc1.20.4.jar": {
+    "modId": "entangled",
+    "version": "1.3.20"
   },
   "entityculling-fabric-1.7.4-mc1.20.1.jar": {
     "modId": "entityculling",
@@ -455,9 +463,9 @@
     "modId": "indium",
     "version": "1.0.36+mc1.20.1"
   },
-  "InventoryProfilesNext-fabric-1.20-1.10.12.jar": {
-    "modId": "inventoryprofilesnext",
-    "version": "1.10.12"
+  "inventoryessentials-fabric-1.20.1-8.2.7.jar": {
+    "modId": "inventoryessentials",
+    "version": "8.2.7"
   },
   "iris-1.7.6+mc1.20.1.jar": {
     "modId": "iris",
@@ -735,6 +743,10 @@
     "modId": "puzzleslib",
     "version": "8.1.32"
   },
+  "redbits-1.16.6.jar": {
+    "modId": "redbits-common",
+    "version": "1.16.6"
+  },
   "reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar": {
     "modId": "reeses-sodium-options",
     "version": "1.7.2+mc1.20.1-build.101"
@@ -750,6 +762,10 @@
   "rhino-fabric-2001.2.3-build.10.jar": {
     "modId": "rhino",
     "version": "2001.2.3-build.10"
+  },
+  "sawmill-1.20-1.4.6-fabric.jar": {
+    "modId": "sawmill",
+    "version": "1.20-1.4.6"
   },
   "screenshot_viewer-1.3.1-fabric-mc1.20.jar": {
     "modId": "screenshot_viewer",
@@ -851,9 +867,13 @@
     "modId": "suggestion_tweaker",
     "version": "1.20-1.5.2"
   },
-  "taterzens-fabric-1.20.1-1.11.7.jar": {
-    "modId": "taterzens",
-    "version": "1.11.7"
+  "supermartijn642configlib-1.1.8a-fabric-mc1.20.jar": {
+    "modId": "supermartijn642configlib",
+    "version": "1.1.8+a"
+  },
+  "supermartijn642corelib-1.1.18a-fabric-mc1.20.1.jar": {
+    "modId": "supermartijn642corelib",
+    "version": "1.1.18+a"
   },
   "tectonic-fabric-1.20.1-2.4.4.jar": {
     "modId": "tectonic",

@@ -51,6 +51,9 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "entangled": {
+    "entangled_block_component": true
+  },
   "exposure": {
     "lightroom": true,
     "photograph_frame": true
@@ -61,9 +64,6 @@
     "fossil_analyzer": true,
     "pokemon_entity": true,
     "berry_bush": true
-  },
-  "supplementaries": {
-    "hat_stand": true
   },
   "jade": {
     "coordinates.rel": false,
