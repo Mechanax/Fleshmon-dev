@@ -29,6 +29,7 @@ Red Bits
 Sawmill
 Entangled
 Cobblemon - Fight or Flight
+Cobblemon Integrations
 
 - Removed
 Immersive Optimization (Causing dead pokemon to not despawn until a player gets close)
