@@ -23,7 +23,7 @@
       }
     },
     "porting_lib:entity_gravity": {
-      "enabled": false,
+      "enabled": true,
       "min": {
         "default": -8,
         "value": -8
@@ -89,7 +89,7 @@
       }
     },
     "porting_lib:step_height_addition": {
-      "enabled": false,
+      "enabled": true,
       "min": {
         "default": -512,
         "value": -512
@@ -177,7 +177,7 @@
       }
     },
     "porting_lib:swim_speed": {
-      "enabled": false,
+      "enabled": true,
       "min": {
         "default": 0,
         "value": 0

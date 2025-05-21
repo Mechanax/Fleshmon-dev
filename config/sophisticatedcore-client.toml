@@ -4,4 +4,4 @@
 	playButtonSound = true
 	#Positions where sort buttons can display to help with conflicts with controls from other mods
 	#Allowed Values: TITLE_LINE_RIGHT, BELOW_UPGRADES, BELOW_UPGRADE_TABS, HIDDEN
-	sortButtonsPosition = "TITLE_LINE_RIGHT"
+	sortButtonsPosition = "BELOW_UPGRADES"
