@@ -152,12 +152,12 @@
 		# Default mode for left-clicking non-living entities (armor stands, item frames...) in claimed chunks
 		# Default: "allies"
 		# Valid values: "allies", "private", "public"
-		def_entity_attack: "allies"
+		def_entity_attack: "public"
 		
 		# Default mode for entity interaction in claimed chunks
 		# Default: "allies"
 		# Valid values: "allies", "private", "public"
-		def_entity_interact: "allies"
+		def_entity_interact: "public"
 		
 		# Default allow fake player IDs which are the same as real permitted players
 		# Default: true

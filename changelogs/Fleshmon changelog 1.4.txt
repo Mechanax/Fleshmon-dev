@@ -10,6 +10,9 @@ MoreJS 0.10.0 -> 0.10.1
 Simple Voice Chat 2.4.32 -> 2.5.29 (Will hopefuly solve the VC issues)
 Crash Assistant 1.7.28 -> 1.8.0
 Cobbreeding 1.7.8 -> 1.9.0
+Waystones 14.1.12 -> 14.1.13
+Exposure 1.7.13 -> .1.7.14
+Balm 7.3.29 -> 7.3.30
 
 - Added
 Keybind Fix (Should fix the keybind problems)
@@ -43,4 +46,7 @@ EmoteTweaks (needs to be removed to update SVC, will be updated at a later date)
 - Config/etc
 
 - KubeJS
+Added a warning to the old backpacks
+Added discriptions to explane Myths and Legends items
+Fixed missing pokemon from pokedex
 Disabled cobgyms blocks and keys form being used.
